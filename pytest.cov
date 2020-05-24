@@ -1,0 +1,5 @@
+[run]
+# omit the tests for analysis during test coverage monitoring
+omit=tests/*
+# run all of the tests that start with speedsurprises
+include=src*
